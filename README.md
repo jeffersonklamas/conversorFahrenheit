@@ -6,4 +6,4 @@ No momento uma brincadeira básica em JavaScript, Html e CSS, pretendo implement
 
 E fiz um básico em Python para verificar a diferença de codificação.
 
-#####Tenha Boas Idéias, Lembre de **Sempre se Divertir**.
+##### Tenha Boas Idéias, Lembre de **Sempre se Divertir**.
